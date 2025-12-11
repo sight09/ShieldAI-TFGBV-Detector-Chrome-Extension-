@@ -5,8 +5,7 @@ A Chrome extension that detects Technology-Facilitated Gender-Based Violence (TF
 ---
 
 ## Demo Video
-Insert your demo video link here:
-[DEMO VIDEO LINK PLACEHOLDER]
+[![Watch the Demo](https://img.shields.io/badge/▶-Watch%20on%20YouTube-red?style=for-the-badge)](https://youtu.be/00aQsbEvpR4?si=UEyYdhzP7IO5ioUB)
 
 ---
 
