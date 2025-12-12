@@ -69,6 +69,7 @@ chrome://extensions/
 
 ## Project Structure
 shieldai/
+| cocept note
 
 │ manifest.json
 
